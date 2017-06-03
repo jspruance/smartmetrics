@@ -1,0 +1,67 @@
+{ "tableData":
+  [
+    {
+      "applicationid": "serviceLayerAppId",
+      "mapname": "universal_personalization_profile",
+      "put": 66,
+      "set": 24,
+      "putifabsent": 12,
+      "get": 213,
+      "delete": 9
+    },
+    {
+      "applicationid": "serviceLayerAppId",
+      "mapname": "ccc_cart_profile",
+      "put": 306,
+      "set": 51,
+      "putifabsent": 43,
+      "get": 1032,
+      "delete": 93
+    },
+    {
+      "applicationid": "serviceLayerAppId",
+      "mapname": "universal_personalization_profile",
+      "put": 345,
+      "set": 94,
+      "putifabsent": 16,
+      "get": 1231,
+      "delete": 77
+    },
+    {
+      "applicationid": "dataLayerAppId",
+      "mapname": "ccc_cart_profile",
+      "put": 0,
+      "set": 0,
+      "putifabsent": 0,
+      "get": 2093,
+      "delete": 19
+    },
+    {
+      "applicationid": "dataLayerAppId",
+      "mapname": "test_map_2",
+      "put": 0,
+      "set": 0,
+      "putifabsent": 0,
+      "get": 1565,
+      "delete": 9
+    },
+    {
+      "applicationid": "dataLayerAppId",
+      "mapname": "test_map_3",
+      "put": 0,
+      "set": 0,
+      "putifabsent": 0,
+      "get": 2835,
+      "delete": 67
+    },
+    {
+      "applicationid": "dataLayerAppId",
+      "mapname": "test_map_6",
+      "put": 0,
+      "set": 21,
+      "putifabsent": 36,
+      "get": 5263,
+      "delete": 84
+    }
+  ]
+}
